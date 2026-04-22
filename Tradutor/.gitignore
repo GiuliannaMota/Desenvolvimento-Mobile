@@ -1,0 +1,14 @@
+# Dependências 
+.expo/
+dist/
+npm-debug.log*
+
+# Android/iOS (Arquivos gerados automaticamente)
+android/
+ios/
+*.apk
+*.bundle
+
+# Configurações locais e segredos
+.env
+.DS_Store

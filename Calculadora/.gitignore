@@ -1,0 +1,14 @@
+# Dependências 
+.expo/
+dist/
+npm-debug.log*
+
+# Android/iOS 
+android/
+ios/
+*.apk
+*.bundle
+
+# Configurações locais e segredos
+.env
+.DS_Store
